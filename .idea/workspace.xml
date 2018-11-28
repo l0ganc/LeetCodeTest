@@ -2,13 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindMissingNunber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindSubSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindTopKFrequentWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PermutationString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveSomeCharsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharRemoval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hosts_access_log_00.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hosts_access_log_00.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ArraysSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ArraysSortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/BianLi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/BianLi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Caijian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Caijian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/CombinationNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/CombinationNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/DataConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/DataConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/DiverseDeputation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/DiverseDeputation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/EmailConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/EmailConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindAllAnagramsinaString_438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindAllAnagramsinaString_438.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindMissingNunber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindMissingNunber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindSubSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindSubSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindTopKFrequentWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindTopKFrequentWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HeavyWaterOA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HeavyWaterOA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225$MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225$MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LongPressedName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LongPressedName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/MissingWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/MissingWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Nfruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Nfruits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/PaiLie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/PaiLie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/PermutationString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/PermutationString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai$Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/RemoveSomeCharsInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/RemoveSomeCharsInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SimpleTextQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SimpleTextQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SlideWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SlideWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SqrtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SqrtTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SubSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SubSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Twilio_url_filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Twilio_url_filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ten1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ten1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ten3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ten3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/records_hosts_access_log_00.txt" beforeDir="false" afterPath="$PROJECT_DIR$/records_hosts_access_log_00.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BianLi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BianLi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Caijian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Caijian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CombinationNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CombinationNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiverseDeputation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiverseDeputation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmailConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmailConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindAllAnagramsinaString_438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindAllAnagramsinaString_438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindMissingNunber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindMissingNunber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindSubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindSubSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindTopKFrequentWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindTopKFrequentWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HardQuestions/WordLadderI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HardQuestions/WordLadderI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HardQuestions/WordLadderII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HardQuestions/WordLadderII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeavyWaterOA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeavyWaterOA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImplementStackUsingQueue_225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImplementStackUsingQueue_225.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongPressedName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongPressedName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MissingWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MissingWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nfruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nfruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PaiLie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaiLie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PermutationString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PermutationString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pony/ai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pony/ai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RemoveSomeCharsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RemoveSomeCharsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleTextQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleTextQueries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SlideWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SlideWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SqrtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SqrtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Twilio_url_filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Twilio_url_filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ten1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ten1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ten3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ten3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +97,7 @@
     <session id="1580794097">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="2" />
@@ -29,42 +105,43 @@
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="8" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.open.time.8" value="9" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="17772" />
+          <entry key="java" value="19462" />
           <entry key="txt" value="160" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17772" />
+          <entry key="JAVA" value="19462" />
           <entry key="PLAIN_TEXT" value="164" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="95" />
+          <entry key="java" value="99" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="95" />
+          <entry key="JAVA" value="99" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -77,18 +154,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindSubSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BianLi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -100,7 +165,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PermutationString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -112,7 +177,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindTopKFrequentWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="300">
               <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
@@ -121,17 +186,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindMissingNunber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="225">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RemoveSomeCharsInAString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CharRemoval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="34" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RemoveSomeCharsInAString.java">
+        <entry file="file://$PROJECT_DIR$/src/StringBuilderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="345" column="25" selection-start-line="345" selection-start-column="25" selection-end-line="345" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -139,8 +240,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="1125" column="74" lean-forward="true" selection-start-line="1125" selection-start-column="74" selection-end-line="1125" selection-end-column="74" />
+            <state relative-caret-position="16020">
+              <caret line="1125" column="74" selection-start-line="1125" selection-start-column="74" selection-end-line="1125" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -197,6 +298,9 @@
         <option value="$PROJECT_DIR$/src/FindTopKFrequentWords.java" />
         <option value="$PROJECT_DIR$/src/FindMissingNunber.java" />
         <option value="$PROJECT_DIR$/src/RemoveSomeCharsInAString.java" />
+        <option value="$PROJECT_DIR$/src/CharRemoval.java" />
+        <option value="$PROJECT_DIR$/src/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/StringBuilderTest.java" />
       </list>
     </option>
   </component>
@@ -206,11 +310,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-165" />
-    <option name="y" value="-843" />
-    <option name="width" value="1256" />
-    <option name="height" value="966" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,7 +320,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,13 +343,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543009825969" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543369053787" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -271,30 +374,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveSomeCharsInAString">
+  <component name="RunManager" selected="Application.StringBuilderTest">
+    <configuration name="CharRemoval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharRemoval" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMissingNunber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMissingNunber" />
-      <module name="LeetCodeTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindSubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindSubSet" />
-      <module name="LeetCodeTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTopKFrequentWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindTopKFrequentWords" />
-      <module name="LeetCodeTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PermutationString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PermutationString" />
       <module name="LeetCodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -307,20 +396,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBuilderTest" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringReverse" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FindSubSet" />
-      <item itemvalue="Application.PermutationString" />
-      <item itemvalue="Application.FindTopKFrequentWords" />
       <item itemvalue="Application.FindMissingNunber" />
       <item itemvalue="Application.RemoveSomeCharsInAString" />
+      <item itemvalue="Application.CharRemoval" />
+      <item itemvalue="Application.StringReverse" />
+      <item itemvalue="Application.StringBuilderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderTest" />
+        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="Application.CharRemoval" />
         <item itemvalue="Application.RemoveSomeCharsInAString" />
         <item itemvalue="Application.FindMissingNunber" />
-        <item itemvalue="Application.FindTopKFrequentWords" />
-        <item itemvalue="Application.PermutationString" />
-        <item itemvalue="Application.FindSubSet" />
       </list>
     </recent_temporary>
   </component>
@@ -383,18 +486,23 @@
       <workItem from="1542511961079" duration="596000" />
       <workItem from="1542872241554" duration="2792000" />
       <workItem from="1542912089908" duration="256000" />
-      <workItem from="1542996295458" duration="6731000" />
+      <workItem from="1542996295458" duration="9650000" />
+      <workItem from="1543075418801" duration="431000" />
+      <workItem from="1543108834212" duration="793000" />
+      <workItem from="1543194444225" duration="1886000" />
+      <workItem from="1543243631526" duration="151000" />
+      <workItem from="1543368451121" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63895000" />
+    <option name="totallyTimeSpent" value="70511000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-165" y="-843" width="1256" height="966" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17627677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13675214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -404,14 +512,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978701" weight="0.33981693" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37757438" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4967051" visible="true" weight="0.20816326" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37757438" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946752" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021299" side_tool="true" weight="0.3423729" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.3265306" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49835256" weight="0.29387754" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5016475" side_tool="true" weight="0.32951945" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32574257" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -678,9 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,40 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BianLi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="1125" column="74" lean-forward="true" selection-start-line="1125" selection-start-column="74" selection-end-line="1125" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindSubSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PermutationString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -767,24 +838,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindSubSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BianLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindTopKFrequentWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="300">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindMissingNunber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveSomeCharsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharRemoval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16020">
+          <caret line="1125" column="74" selection-start-line="1125" selection-start-column="74" selection-end-line="1125" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="345" column="25" selection-start-line="345" selection-start-column="25" selection-end-line="345" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
