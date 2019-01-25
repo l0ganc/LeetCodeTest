@@ -37,7 +37,7 @@ public class TimeNeedToBurnWholeBinaryTree {
         if (startNode == null) {
             return 0;
         }
-        TreeNode root = findRoot(startNode);
+        MyTreeNode root = findRoot(startNode);
         int maxLengthFromRoot = findMaxLength(root);
         int upLength = maxLengthFromRoot + lenToRoot;
         int downLength = findMaxLength(startNode);
