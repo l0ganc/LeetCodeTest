@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Cohesity/LC156BinaryTreeUpsideDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -66,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cohesity/LC156BinaryTreeUpsideDown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="547">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -136,8 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindAllAnagramsinaString_438.java" />
-        <option value="$PROJECT_DIR$/src/LongPressedName.java" />
         <option value="$PROJECT_DIR$/src/Caijian.java" />
         <option value="$PROJECT_DIR$/src/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/Nfruits.java" />
@@ -187,13 +194,15 @@
         <option value="$PROJECT_DIR$/src/Cohesity/LowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/LogStructureMergeTree.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/QuickSelect.java" />
+        <option value="$PROJECT_DIR$/src/Cohesity/LC156BinaryTreeUpsideDown.java" />
+        <option value="$PROJECT_DIR$/src/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
+    <option name="y" value="80" />
     <option name="width" value="1680" />
-    <option name="height" value="967" />
+    <option name="height" value="697" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -233,7 +242,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548438458074" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548439776954" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -258,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSelect">
+  <component name="RunManager" selected="Application.LC340LongestSubstringWithAtmostKDistinctharacters">
     <configuration name="CombinationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CombinationNumber" />
       <module name="LeetCodeTest" />
@@ -273,9 +282,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC973" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LC973" />
+    <configuration name="LC340LongestSubstringWithAtmostKDistinctharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cohesity.LC340LongestSubstringWithAtmostKDistinctharacters" />
       <module name="LeetCodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cohesity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -307,19 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC973" />
       <item itemvalue="Application.CombinationNumber" />
       <item itemvalue="Application.FileLevelCombination" />
       <item itemvalue="Application.LowestCommonAncestor" />
       <item itemvalue="Application.QuickSelect" />
+      <item itemvalue="Application.LC340LongestSubstringWithAtmostKDistinctharacters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC340LongestSubstringWithAtmostKDistinctharacters" />
         <item itemvalue="Application.QuickSelect" />
         <item itemvalue="Application.CombinationNumber" />
         <item itemvalue="Application.LowestCommonAncestor" />
         <item itemvalue="Application.FileLevelCombination" />
-        <item itemvalue="Application.LC973" />
       </list>
     </recent_temporary>
   </component>
@@ -403,12 +418,12 @@
       <workItem from="1547232702298" duration="2322000" />
       <workItem from="1547244942750" duration="2340000" />
       <workItem from="1548109680779" duration="1614000" />
-      <workItem from="1548396701733" duration="5124000" />
+      <workItem from="1548396701733" duration="5817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118567000" />
+    <option name="totallyTimeSpent" value="119260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -866,16 +881,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FindSubSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindTopKFrequentWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1270,8 +1275,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cohesity/LC156BinaryTreeUpsideDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="547">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
