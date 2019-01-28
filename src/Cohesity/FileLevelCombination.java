@@ -7,11 +7,11 @@ import java.util.Scanner;
 public class FileLevelCombination {
     private static List<String> combine(int n, int k) {
         List<String> res = new ArrayList<>();
-        helper(res, n, k, "", 1);
+        helper(res, n, k, "");
         return res;
     }
 
-    private static void helper(List<String> res, int n, int k, String cur, int start) {
+    private static void helper(List<String> res, int n, int k, String cur) {
         if (k == 0) {
             res.add(cur);
             return;
@@ -19,7 +19,7 @@ public class FileLevelCombination {
 
         for (int i = 1; i <= n; i++) {
             cur += "/" + i;
-            helper(res, n, k - 1, cur, i + 1);
+            helper(res, n, k - 1, cur);
             cur = cur.substring(0, cur.length() - 2);
         }
     }
