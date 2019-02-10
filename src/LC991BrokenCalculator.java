@@ -1,28 +1,15 @@
 public class LC991BrokenCalculator {
     public static int brokenCalc(int X, int Y) {
         int res = 0;
-        if (X < Y) {
-            while (X != Y) {
-                if (X * 2 - 1 == Y) {
-                    res += 2;
-                    break;
-                } else if (X * 2 - 1 > Y) {
-                    X--;
-                    res++;
-                    if (X * 2 == Y) {
-                        res++;
-                        break;
-                    }
-                } else if (X * 2 - 1 < Y){
-                    X *= 2;
-                    res++;
-                }
+        while (Y > X) {
+            if (Y % 2 == 1) {
+                Y++;
+            } else {
+                Y /= 2;
             }
-        } else {
-            res += (X - Y);
+            res++;
         }
-
-        return res;
+        return res + X - Y;
     }
 
     public static void main(String[] args) {

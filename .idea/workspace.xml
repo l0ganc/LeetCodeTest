@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/CourseSchedule.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LC991BrokenCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/QuickSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/QuickSelect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cohesity/QuickSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cohesity/QuickSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LC991BrokenCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LC991BrokenCalculator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,22 +30,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LC991BrokenCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <state relative-caret-position="242">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -185,8 +168,8 @@
         <option value="$PROJECT_DIR$/src/Cohesity/FileLevelCombination.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/CourseSchedule.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/QuickSelect.java" />
-        <option value="$PROJECT_DIR$/src/LC991BrokenCalculator.java" />
         <option value="$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java" />
+        <option value="$PROJECT_DIR$/src/LC991BrokenCalculator.java" />
       </list>
     </option>
   </component>
@@ -248,7 +231,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549772452769" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549772457047" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -273,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC989AddToArrayFormOfInteger">
+  <component name="RunManager" selected="Application.LC991BrokenCalculator">
     <configuration name="FileLevelCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cohesity.FileLevelCombination" />
       <module name="LeetCodeTest" />
@@ -330,8 +313,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC989AddToArrayFormOfInteger" />
         <item itemvalue="Application.LC991BrokenCalculator" />
+        <item itemvalue="Application.LC989AddToArrayFormOfInteger" />
         <item itemvalue="Application.QuickSelect" />
         <item itemvalue="Application.FileLevelCombination" />
         <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
@@ -421,12 +404,12 @@
       <workItem from="1548396701733" duration="9637000" />
       <workItem from="1548558174815" duration="2569000" />
       <workItem from="1548810534696" duration="970000" />
-      <workItem from="1549767146278" duration="2316000" />
+      <workItem from="1549767146278" duration="2723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128935000" />
+    <option name="totallyTimeSpent" value="129342000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,11 +435,11 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4967051" weight="0.18979591" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32040817" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32040817" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49835256" weight="0.36734694" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49835256" visible="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5016475" side_tool="true" weight="0.32951945" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.3244898" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -924,27 +907,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LC991BrokenCalculator.java</url>
-          <line>5</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="195" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LC991BrokenCalculator.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="196" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LC991BrokenCalculator.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LC991BrokenCalculator.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="198" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1341,6 +1306,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cohesity/QuickSelect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1350,18 +1325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LC991BrokenCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="242">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
