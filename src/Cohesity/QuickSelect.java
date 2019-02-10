@@ -18,6 +18,7 @@ public class QuickSelect {
 
         int left = 0;
         int right = nums.length - 1;
+
         while (true) {
             int position = partition(nums, left, right);
             if (position + 1 == k) {
