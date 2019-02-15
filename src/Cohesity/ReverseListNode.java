@@ -1,6 +1,11 @@
 package Cohesity;
 
 public class ReverseListNode {
+    static public class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+    }
     public ListNode reverList(ListNode head) {
         if (head == null || head.next == null) {
             return null;

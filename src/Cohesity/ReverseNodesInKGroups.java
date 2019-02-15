@@ -15,6 +15,12 @@ package Cohesity;
  * For k = 3, you should return: 3->2->1->4->5
  */
 public class ReverseNodesInKGroups {
+    static public class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+    }
+
     public static ListNode reverseKGroup(ListNode head, int k) {
         ListNode cur = head;
         int count = 0;
