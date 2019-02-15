@@ -1,6 +1,16 @@
 package Cohesity;
 
+
 public class LowestCommonAncestor {
+    static class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        public TreeNode(int val) {
+            this.val = val;
+        }
+    }
+
     public static TreeNode LCA(TreeNode root, TreeNode p, TreeNode q) {
         if (root == null || root == p || root == q) {
             return root;
@@ -46,11 +56,4 @@ public class LowestCommonAncestor {
     }
 }
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    public TreeNode(int val) {
-        this.val = val;
-    }
-}
+

@@ -10,6 +10,16 @@ import java.util.List;
  * 过去一天的event数目
  */
 public class LogStructureMergeTree {
+
+    static class Log{
+        int timestamp;
+        String msg;
+        public  Log(int timestamp, String msg) {
+            this.timestamp = timestamp;
+            this.msg = msg;
+        }
+    }
+
     static List<Log> storage1;
     static List<Log> storage2;
     static List<Log> storage3;
@@ -64,11 +74,3 @@ public class LogStructureMergeTree {
     }
 }
 
-class Log{
-    int timestamp;
-    String msg;
-    public  Log(int timestamp, String msg) {
-        this.timestamp = timestamp;
-        this.msg = msg;
-    }
-}

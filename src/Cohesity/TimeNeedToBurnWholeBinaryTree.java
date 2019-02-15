@@ -1,6 +1,16 @@
 package Cohesity;
 
 public class TimeNeedToBurnWholeBinaryTree {
+    static class MyTreeNode {
+        int val;
+        MyTreeNode parent;
+        MyTreeNode left;
+        MyTreeNode right;
+        public MyTreeNode(int val) {
+            this.val = val;
+        }
+    }
+
     static int lenToRoot = 0;
     private static MyTreeNode findRoot(MyTreeNode startNode) {
         if (startNode == null || startNode.parent == null) {
@@ -48,12 +58,4 @@ public class TimeNeedToBurnWholeBinaryTree {
 
 }
 
-class MyTreeNode {
-    int val;
-    MyTreeNode parent;
-    MyTreeNode left;
-    MyTreeNode right;
-    public MyTreeNode(int val) {
-        this.val = val;
-    }
-}
+
