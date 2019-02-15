@@ -9,6 +9,14 @@ package Cohesity;
  * In average case, depth will be O(logm).
  */
 public class MergeTwoBinaryTreeLC617 {
+    static class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        public TreeNode(int val) {
+            this.val = val;
+        }
+    }
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         if (t1 == null) {
             return t2;
