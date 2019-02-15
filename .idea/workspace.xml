@@ -146,7 +146,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550204272442" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550204286017" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -171,9 +171,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CombinationSum">
+  <component name="RunManager" selected="Application.FileLevelCombination">
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cohesity.CombinationSum" />
+      <module name="LeetCodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cohesity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileLevelCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cohesity.FileLevelCombination" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
@@ -206,33 +219,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cohesity.QuickSelect" />
-      <module name="LeetCodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cohesity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.QuickSelect" />
       <item itemvalue="Application.LC989AddToArrayFormOfInteger" />
       <item itemvalue="Application.LC991BrokenCalculator" />
       <item itemvalue="Application.LC992SubarrayswithKDifferentIntegers" />
       <item itemvalue="Application.CombinationSum" />
+      <item itemvalue="Application.FileLevelCombination" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileLevelCombination" />
         <item itemvalue="Application.CombinationSum" />
         <item itemvalue="Application.LC992SubarrayswithKDifferentIntegers" />
         <item itemvalue="Application.LC991BrokenCalculator" />
         <item itemvalue="Application.LC989AddToArrayFormOfInteger" />
-        <item itemvalue="Application.QuickSelect" />
       </list>
     </recent_temporary>
   </component>

@@ -3,6 +3,14 @@ package Cohesity;
 import java.util.LinkedHashMap;
 
 public class MergeTwoLists {
+    static class ListNode{
+        int val;
+        ListNode next;
+        public ListNode(int val) {
+            this.val = val;
+        }
+    }
+
     public ListNode mergeTwoLists(ListNode p, ListNode q) {
         ListNode dummy = new ListNode(0);
         ListNode cur = dummy;
@@ -29,10 +37,4 @@ public class MergeTwoLists {
 
 }
 
-class ListNode{
-    int val;
-    ListNode next;
-    public ListNode(int val) {
-        this.val = val;
-    }
-}
+
