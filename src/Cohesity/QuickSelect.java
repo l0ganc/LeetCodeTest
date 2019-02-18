@@ -4,6 +4,7 @@ package Cohesity;
  * 选出无重复的一组数组中的第k小的元素
  * Quick sort
  */
+
 public class QuickSelect {
     public static void main(String[] args) {
         int[] nums = new int[]{3,2,1,5,6,4};
