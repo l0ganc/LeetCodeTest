@@ -17,6 +17,7 @@ public class Election {
         String[] votes2 = new String[]{"Victor", "Veronica", "Ryan", "Dave", "Maria", "Maria", "Farah", "Farah", "Ryan", "Veronica"};
         //System.out.println(getWinnerName(votes));
         System.out.println(getWinnerName(votes2));
+
     }
 
     public static String getWinnerName(String[] votes) {

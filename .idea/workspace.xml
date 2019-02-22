@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Mathworks/Election.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mathworks/GCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathworks/Election.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathworks/Election.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +40,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Mathworks/FindSubstrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="279">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1470#1471#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathworks/Election.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="306">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindMissingNunber.java" />
         <option value="$PROJECT_DIR$/src/RemoveSomeCharsInAString.java" />
         <option value="$PROJECT_DIR$/src/CharRemoval.java" />
         <option value="$PROJECT_DIR$/src/StringReverse.java" />
@@ -201,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/Mathworks/MergeString.java" />
         <option value="$PROJECT_DIR$/src/Mathworks/GCD.java" />
         <option value="$PROJECT_DIR$/src/Mathworks/Election.java" />
+        <option value="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" />
       </list>
     </option>
   </component>
@@ -252,7 +255,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550812704073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550814204414" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -277,9 +280,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Election">
+  <component name="RunManager" selected="Application.FindSubstrings">
     <configuration name="Election" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mathworks.Election" />
+      <module name="LeetCodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mathworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mathworks.FindSubstrings" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
@@ -300,13 +316,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaArrayListTest" />
-      <module name="LeetCodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -338,19 +347,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JavaArrayListTest" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.MergeString" />
       <item itemvalue="Application.GCD" />
       <item itemvalue="Application.Election" />
+      <item itemvalue="Application.FindSubstrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSubstrings" />
         <item itemvalue="Application.Election" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.MergeString" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.JavaArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -442,12 +451,12 @@
       <workItem from="1550265095980" duration="1679000" />
       <workItem from="1550528760597" duration="5831000" />
       <workItem from="1550778187738" duration="60000" />
-      <workItem from="1550808173706" duration="1632000" />
+      <workItem from="1550808173706" duration="3015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142507000" />
+    <option name="totallyTimeSpent" value="143890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,6 +469,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14529915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -471,8 +481,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.18367347" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32040817" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.41428572" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32040817" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
@@ -954,12 +964,6 @@
           <properties />
           <option name="timeStamp" value="196" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Mathworks/Election.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="197" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1353,13 +1357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mathworks/FindSubstrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathworks/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1373,10 +1370,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathworks/Election.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="306">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mathworks/FindSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1470#1471#0" expanded="true" />
           </folding>
         </state>
       </provider>
