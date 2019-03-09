@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LC1002FindCommonCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quantcast/DisjointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quantcast/PythonCodeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quantcast/temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mathworks/Election.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathworks/Election.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +25,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaArrayListTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Quantcast/DisjointSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="945">
+              <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Quantcast/temp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="813">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -34,21 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathworks/MergeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Mathworks/FindSubstrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1470#1471#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -56,20 +54,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mathworks/GCD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
                 <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mathworks/FindSubstrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Mathworks/Election.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="285">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,53 +89,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/Quantcast/PythonCodeCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="122" column="56" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="56" />
-              <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/MaximumAverageNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/MaximumSubTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/FindKNearestPoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/TruckGoods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            <state relative-caret-position="660">
+              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,10 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RemoveSomeCharsInAString.java" />
-        <option value="$PROJECT_DIR$/src/CharRemoval.java" />
-        <option value="$PROJECT_DIR$/src/StringReverse.java" />
-        <option value="$PROJECT_DIR$/src/StringBuilderTest.java" />
         <option value="$PROJECT_DIR$/src/CountBits.java" />
         <option value="$PROJECT_DIR$/src/HardQuestions/LRU.java" />
         <option value="$PROJECT_DIR$/src/StringSearch.java" />
@@ -204,12 +167,17 @@
         <option value="$PROJECT_DIR$/src/Mathworks/GCD.java" />
         <option value="$PROJECT_DIR$/src/Mathworks/Election.java" />
         <option value="$PROJECT_DIR$/src/Mathworks/FindSubstrings.java" />
+        <option value="$PROJECT_DIR$/src/LC1002FindCommonCharacter.java" />
+        <option value="$PROJECT_DIR$/src/Quantcast/PythonCodeCheck.java" />
+        <option value="$PROJECT_DIR$/src/Quantcast/DisjointSet.java" />
+        <option value="$PROJECT_DIR$/src/Quantcast/temp.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="39" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -219,8 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,13 +205,13 @@
               <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon_OA2" type="462c0819:PsiDirectoryNode" />
+              <item name="Mathworks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Mathworks" type="462c0819:PsiDirectoryNode" />
+              <item name="Quantcast" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,7 +223,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550814204414" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551659011998" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -280,13 +248,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindSubstrings">
-    <configuration name="Election" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mathworks.Election" />
+  <component name="RunManager" selected="Application.LC1002FindCommonCharacter">
+    <configuration name="CombinationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinationNumber" />
+      <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisjointSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quantcast.DisjointSet" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mathworks.*" />
+          <option name="PATTERN" value="Quantcast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,38 +282,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mathworks.GCD" />
+    <configuration name="LC1002FindCommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC1002FindCommonCharacter" />
       <module name="LeetCodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mathworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mathworks.MergeString" />
+    <configuration name="PythonCodeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quantcast.PythonCodeCheck" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mathworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Amazon_OA2.test" />
-      <module name="LeetCodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Amazon_OA2.*" />
+          <option name="PATTERN" value="Quantcast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,19 +303,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.MergeString" />
-      <item itemvalue="Application.GCD" />
-      <item itemvalue="Application.Election" />
       <item itemvalue="Application.FindSubstrings" />
+      <item itemvalue="Application.CombinationNumber" />
+      <item itemvalue="Application.DisjointSet" />
+      <item itemvalue="Application.PythonCodeCheck" />
+      <item itemvalue="Application.LC1002FindCommonCharacter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC1002FindCommonCharacter" />
+        <item itemvalue="Application.PythonCodeCheck" />
+        <item itemvalue="Application.DisjointSet" />
+        <item itemvalue="Application.CombinationNumber" />
         <item itemvalue="Application.FindSubstrings" />
-        <item itemvalue="Application.Election" />
-        <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.MergeString" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -451,12 +407,17 @@
       <workItem from="1550265095980" duration="1679000" />
       <workItem from="1550528760597" duration="5831000" />
       <workItem from="1550778187738" duration="60000" />
-      <workItem from="1550808173706" duration="3015000" />
+      <workItem from="1550808173706" duration="3733000" />
+      <workItem from="1551427598342" duration="9143000" />
+      <workItem from="1551481269925" duration="4342000" />
+      <workItem from="1551558777019" duration="2857000" />
+      <workItem from="1551653777761" duration="1783000" />
+      <workItem from="1551759465661" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143890000" />
+    <option name="totallyTimeSpent" value="162745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,7 +432,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14529915" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24481075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -481,14 +442,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.41428572" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32040817" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.31968033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.57342654" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.36734694" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.33265308" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.3244898" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32336017" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -964,68 +925,28 @@
           <properties />
           <option name="timeStamp" value="196" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quantcast/DisjointSet.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Quantcast/PythonCodeCheck.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC1002FindCommonCharacter.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56415">
-          <caret line="3840" selection-start-line="3840" selection-end-line="3840" />
-          <folding>
-            <element signature="e#178121#178122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackPopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EqualCompareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HardQuestions/TextJustification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Twilio_url_filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BianLi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Caijian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1116,13 +1037,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1292,6 +1206,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/saf.java" />
+    <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/MaximumAverageNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1316,23 +1239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/saf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/TruckGoods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -1343,48 +1249,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaArrayListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+          <folding>
+            <element signature="e#12147#12148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10965">
+          <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LC1002FindCommonCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quantcast/DisjointSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quantcast/PythonCodeCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quantcast/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathworks/MergeString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="345">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathworks/GCD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mathworks/Election.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mathworks/FindSubstrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="600">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1470#1471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mathworks/Election.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
