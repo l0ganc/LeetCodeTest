@@ -1,6 +1,17 @@
 package Quantcast;
 
+
+import java.util.*;
+
 public class temp {
+    static class Node{
+        int id1;
+        int id2;
+        public Node(int id1, int id2) {
+            this.id1 = id1;
+            this.id2 = id2;
+        }
+    }
     public static List<List<Node>> getDisjointSets(List<Node> nodes) {
         List<List<Node>> res = new ArrayList<>(); // result list
         if (nodes == null || nodes.size() == 0) { // base case check
