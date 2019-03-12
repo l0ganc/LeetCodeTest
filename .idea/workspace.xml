@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,8 +98,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -137,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DebugLC210.java" />
         <option value="$PROJECT_DIR$/src/CharacterToDiget.java" />
         <option value="$PROJECT_DIR$/src/FirstBlood.java" />
         <option value="$PROJECT_DIR$/src/Stripe/DBDesign.java" />
@@ -188,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java" />
+        <option value="$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java" />
       </list>
     </option>
   </component>
@@ -235,7 +233,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552369286852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552370032764" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -427,12 +425,12 @@
       <workItem from="1551558777019" duration="2857000" />
       <workItem from="1551653777761" duration="1783000" />
       <workItem from="1551759465661" duration="12000" />
-      <workItem from="1552106835048" duration="5731000" />
+      <workItem from="1552106835048" duration="6470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168476000" />
+    <option name="totallyTimeSpent" value="169215000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,7 +445,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24786325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24786325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -457,12 +455,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.15714286" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.3846939" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.57244897" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.29897958" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" visible="true" weight="0.29897958" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32244897" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -1361,8 +1359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
