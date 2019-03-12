@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,11 +48,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Caijian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BianLi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindKthElement.java" />
         <option value="$PROJECT_DIR$/src/DebugLC210.java" />
         <option value="$PROJECT_DIR$/src/CharacterToDiget.java" />
         <option value="$PROJECT_DIR$/src/FirstBlood.java" />
@@ -139,12 +177,15 @@
         <option value="$PROJECT_DIR$/src/SimpleTextQueries.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java" />
+        <option value="$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="63" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,7 +225,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552354730478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552365811480" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -212,10 +253,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NoPairsAllow">
-    <configuration name="LC1002FindCommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LC1002FindCommonCharacter" />
+  <component name="RunManager" selected="Application.GlobalMaximum">
+    <configuration name="BianLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BianLi" />
       <module name="LeetCodeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobalMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DrawDridge.GlobalMaximum" />
+      <module name="LeetCodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DrawDridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,19 +293,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PythonCodeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quantcast.PythonCodeCheck" />
-      <module name="LeetCodeTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Quantcast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShortestPalidrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawDridge.ShortestPalidrome" />
       <module name="LeetCodeTest" />
@@ -266,19 +307,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PythonCodeCheck" />
-      <item itemvalue="Application.LC1002FindCommonCharacter" />
       <item itemvalue="Application.ShortestPalidrome" />
       <item itemvalue="Application.NoPairsAllowed" />
       <item itemvalue="Application.NoPairsAllow" />
+      <item itemvalue="Application.BianLi" />
+      <item itemvalue="Application.GlobalMaximum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GlobalMaximum" />
+        <item itemvalue="Application.BianLi" />
         <item itemvalue="Application.NoPairsAllow" />
         <item itemvalue="Application.NoPairsAllowed" />
         <item itemvalue="Application.ShortestPalidrome" />
-        <item itemvalue="Application.LC1002FindCommonCharacter" />
-        <item itemvalue="Application.PythonCodeCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -376,12 +417,12 @@
       <workItem from="1551558777019" duration="2857000" />
       <workItem from="1551653777761" duration="1783000" />
       <workItem from="1551759465661" duration="12000" />
-      <workItem from="1552106835048" duration="3252000" />
+      <workItem from="1552106835048" duration="5188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165997000" />
+    <option name="totallyTimeSpent" value="167933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -394,7 +435,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24786325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -406,12 +446,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.2744898" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.57342654" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.15714286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.57244897" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.13061224" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.29897958" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32244897" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -911,27 +951,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SlideWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nfruits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LC973.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1175,13 +1194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1310,8 +1322,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Caijian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BianLi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
