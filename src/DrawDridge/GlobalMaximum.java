@@ -7,7 +7,7 @@ import java.util.List;
 public class GlobalMaximum {
     public static int result = 0;
     public static void main(String[] args) {
-        List<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3, 5, 7));
+        List<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3, 5));
         int m = 3;
         System.out.println("The global maximum is : " + getGlobalMaximum(list, m));
 
