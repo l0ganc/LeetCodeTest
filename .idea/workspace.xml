@@ -2,113 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/FindKNearestPoint$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/FindKNearestPoint$Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/FindKNearestPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/FindKNearestPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/MaximumAverageNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/MaximumAverageNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/MaximumSubTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/MaximumSubTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/MaximumSubTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/MaximumSubTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/TruckGoods$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/TruckGoods$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/TruckGoods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon_OA2/TruckGoods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ArrayTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ArraysSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ArraysSortTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/BianLi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/BianLi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/BinaryTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/BinaryTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Caijian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Caijian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/CharCompareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/CharCompareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/CharRemoval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/CharRemoval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/CharacterToDiget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/CharacterToDiget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/CombinationSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/CombinationSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/CourseSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/CourseSchedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/FileLevelCombination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/FileLevelCombination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LC156BinaryTreeUpsideDown$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LC156BinaryTreeUpsideDown$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LC156BinaryTreeUpsideDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LC156BinaryTreeUpsideDown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LogStructureMergeTree$Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LogStructureMergeTree$Log.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LogStructureMergeTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LogStructureMergeTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LowestCommonAncestor$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LowestCommonAncestor$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LowestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/LowestCommonAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoBinaryTreeLC617$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoBinaryTreeLC617$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoBinaryTreeLC617.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoBinaryTreeLC617.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoLists$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoLists$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/MergeTwoLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/QuickSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/QuickSelect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/RemoveDuplicateFromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/RemoveDuplicateFromSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseListNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseListNode$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseNodesInKGroups$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseNodesInKGroups$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseNodesInKGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/ReverseNodesInKGroups.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/TimeNeedToBurnWholeBinaryTree$MyTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/TimeNeedToBurnWholeBinaryTree$MyTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/TimeNeedToBurnWholeBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Cohesity/TimeNeedToBurnWholeBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/CombinationNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/CombinationNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/CountBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/CountBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/DataConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/DataConvert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/DebugLC210.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/DebugLC210.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/DiverseDeputation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/DiverseDeputation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/EmailConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/EmailConvert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/EqualCompareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/EqualCompareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindAllAnagramsinaString_438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindAllAnagramsinaString_438.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindKthElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindKthElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindMissingNunber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindMissingNunber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindSubSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindSubSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FindTopKFrequentWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FindTopKFrequentWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/FirstBlood.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/FirstBlood.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/LRU$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/LRU$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/LRU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/LRU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/TextJustification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/TextJustification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HardQuestions/WordLadderII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/HeavyWaterOA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/HeavyWaterOA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225$MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225$MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ImplementStackUsingQueue_225.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/JavaArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/JavaArrayListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LC1002FindCommonCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LC1002FindCommonCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LC418SentenceScreenFitting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LC418SentenceScreenFitting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LC973.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LC973.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LC989AddToArrayFormOfInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LC989AddToArrayFormOfInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LC991BrokenCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LC991BrokenCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LC992SubarrayswithKDifferentIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LC992SubarrayswithKDifferentIntegers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LongPressedName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LongPressedName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/LongestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/Election.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/Election.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/FindSubstrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/FindSubstrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/GCD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/MergeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Mathworks/MergeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/MissingWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/MissingWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Nfruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Nfruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/PaiLie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/PaiLie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/PermutationString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/PermutationString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai$Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai$Interval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Pony/ai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Quantcast/DisjointSet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Quantcast/DisjointSet$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Quantcast/DisjointSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Quantcast/DisjointSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Quantcast/PythonCodeCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Quantcast/PythonCodeCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/RemoveSomeCharsInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/RemoveSomeCharsInAString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SimpleTextQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SimpleTextQueries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SlideWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SlideWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SqrtTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SqrtTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/StackPopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/StackPopTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/StringBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/StringBuilderTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/StringReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/StringSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/StringSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/DBDesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/DBDesign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/Maps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/Maps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/RecordComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/RecordComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/ServerName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/ServerName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Stripe/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/SubSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/SubSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Twilio_url_filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Twilio_url_filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ten1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ten1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/ten3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/ten3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quantcast/temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quantcast/temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleTextQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleTextQueries.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -144,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="-93">
+              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -184,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CharCompareTest.java" />
         <option value="$PROJECT_DIR$/src/FindKthElement.java" />
         <option value="$PROJECT_DIR$/src/DebugLC210.java" />
         <option value="$PROJECT_DIR$/src/CharacterToDiget.java" />
@@ -235,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/Quantcast/temp.java" />
         <option value="$PROJECT_DIR$/src/SimpleTextQueries.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java" />
+        <option value="$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java" />
       </list>
     </option>
   </component>
@@ -264,6 +168,12 @@
               <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DrawDridge" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -274,7 +184,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552346641286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552354730478" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -302,20 +212,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortestPalidrome">
-    <configuration name="CombinationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombinationNumber" />
+  <component name="RunManager" selected="Application.NoPairsAllow">
+    <configuration name="LC1002FindCommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC1002FindCommonCharacter" />
       <module name="LeetCodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisjointSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quantcast.DisjointSet" />
+    <configuration name="NoPairsAllow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DrawDridge.NoPairsAllow" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Quantcast.*" />
+          <option name="PATTERN" value="DrawDridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,9 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC1002FindCommonCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LC1002FindCommonCharacter" />
-      <module name="LeetCodeTest" />
+    <configuration name="NoPairsAllowed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NoPairsAllowed" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -357,19 +266,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CombinationNumber" />
-      <item itemvalue="Application.DisjointSet" />
       <item itemvalue="Application.PythonCodeCheck" />
       <item itemvalue="Application.LC1002FindCommonCharacter" />
       <item itemvalue="Application.ShortestPalidrome" />
+      <item itemvalue="Application.NoPairsAllowed" />
+      <item itemvalue="Application.NoPairsAllow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoPairsAllow" />
+        <item itemvalue="Application.NoPairsAllowed" />
         <item itemvalue="Application.ShortestPalidrome" />
         <item itemvalue="Application.LC1002FindCommonCharacter" />
         <item itemvalue="Application.PythonCodeCheck" />
-        <item itemvalue="Application.DisjointSet" />
-        <item itemvalue="Application.CombinationNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -467,12 +376,12 @@
       <workItem from="1551558777019" duration="2857000" />
       <workItem from="1551653777761" duration="1783000" />
       <workItem from="1551759465661" duration="12000" />
-      <workItem from="1552106835048" duration="2242000" />
+      <workItem from="1552106835048" duration="3252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164987000" />
+    <option name="totallyTimeSpent" value="165997000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,12 +406,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.31938776" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.2744898" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.57342654" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.33265308" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.13061224" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32244897" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -1002,23 +911,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StringSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SlideWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1404,8 +1296,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="-93">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/src/NoPairsAllowed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
