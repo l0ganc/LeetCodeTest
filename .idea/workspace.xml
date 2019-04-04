@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Viagogo/ViagogoOA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,96 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawDridge/DetectingValidLatitudeAndLongitudePairs.java">
+        <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Quantcast/temp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Caijian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BianLi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-260">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java">
+        <entry file="file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimpleTextQueries.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1410">
+              <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -135,10 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CharacterToDiget.java" />
-        <option value="$PROJECT_DIR$/src/FirstBlood.java" />
-        <option value="$PROJECT_DIR$/src/Stripe/DBDesign.java" />
-        <option value="$PROJECT_DIR$/src/Stripe/ServerName.java" />
         <option value="$PROJECT_DIR$/src/StackPopTest.java" />
         <option value="$PROJECT_DIR$/src/EqualCompareTest.java" />
         <option value="$PROJECT_DIR$/src/Stripe/Solution.java" />
@@ -186,14 +106,18 @@
         <option value="$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java" />
         <option value="$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java" />
+        <option value="$PROJECT_DIR$/src/DrawDridge/MagicalString.java" />
+        <option value="$PROJECT_DIR$/src/ViagogoOA.java" />
+        <option value="$PROJECT_DIR$/src/Vogogo/ViagogoOA.java" />
+        <option value="$PROJECT_DIR$/src/Viagogo/ViagogoOA.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="63" />
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="972" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="217" />
+    <option name="y" value="48" />
+    <option name="width" value="1416" />
+    <option name="height" value="914" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -203,8 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,19 +143,21 @@
               <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DrawDridge" type="462c0819:PsiDirectoryNode" />
+              <item name="Viagogo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552370032764" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553537608082" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -261,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinMoveToMakeTwoIntegerSame">
+  <component name="RunManager" selected="Application.ViagogoOA">
     <configuration name="BianLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BianLi" />
       <module name="LeetCodeTest" />
@@ -308,26 +232,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoPairsAllowed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NoPairsAllowed" />
+    <configuration name="ViagogoOA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Viagogo.ViagogoOA" />
+      <module name="LeetCodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NoPairsAllowed" />
       <item itemvalue="Application.NoPairsAllow" />
       <item itemvalue="Application.BianLi" />
       <item itemvalue="Application.GlobalMaximum" />
       <item itemvalue="Application.MinMoveToMakeTwoIntegerSame" />
+      <item itemvalue="Application.ViagogoOA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ViagogoOA" />
         <item itemvalue="Application.MinMoveToMakeTwoIntegerSame" />
         <item itemvalue="Application.GlobalMaximum" />
         <item itemvalue="Application.BianLi" />
         <item itemvalue="Application.NoPairsAllow" />
-        <item itemvalue="Application.NoPairsAllowed" />
       </list>
     </recent_temporary>
   </component>
@@ -425,12 +350,14 @@
       <workItem from="1551558777019" duration="2857000" />
       <workItem from="1551653777761" duration="1783000" />
       <workItem from="1551759465661" duration="12000" />
-      <workItem from="1552106835048" duration="6470000" />
+      <workItem from="1552106835048" duration="7038000" />
+      <workItem from="1553105693677" duration="4889000" />
+      <workItem from="1553271634275" duration="8730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169215000" />
+    <option name="totallyTimeSpent" value="183402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,10 +369,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="217" y="48" width="1416" height="914" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24786325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20160116" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -455,12 +382,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.3846939" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.57244897" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.3578199" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41938776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" visible="true" weight="0.29897958" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296837" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.28832117" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32244897" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -956,27 +883,16 @@
           <properties />
           <option name="timeStamp" value="206" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LC418SentenceScreenFitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PermutationString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PaiLie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1193,13 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4350">
@@ -1289,29 +1198,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawDridge/DetectingValidLatitudeAndLongitudePairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SimpleTextQueries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/src/NoPairsAllowed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1319,17 +1205,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
+    <entry file="file://$PROJECT_DIR$/src/DrawDridge/DetectingValidLatitudeAndLongitudePairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1343,14 +1222,14 @@
     <entry file="file://$PROJECT_DIR$/src/BianLi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawDridge/GlobalMaximum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1359,8 +1238,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawDridge/MinMoveToMakeTwoIntegerSame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawDridge/MagicalString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleTextQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawDridge/NoPairsAllow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawDridge/ShortestPalidrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
         </state>
       </provider>
     </entry>
