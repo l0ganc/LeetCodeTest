@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lumi_Labs/LC234PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lumi_Labs/QueryString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,14 +51,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/LC234PalindromeLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
-              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+              <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
               <folding>
                 <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#480#481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/QueryString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stripe/Solution.java" />
         <option value="$PROJECT_DIR$/src/HardQuestions/TextJustification.java" />
         <option value="$PROJECT_DIR$/src/LC418SentenceScreenFitting.java" />
         <option value="$PROJECT_DIR$/src/LC973.java" />
@@ -135,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/Viagogo/ViagogoOA.java" />
         <option value="$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java" />
         <option value="$PROJECT_DIR$/src/Lumi_Labs/LC234PalindromeLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/Lumi_Labs/QueryString.java" />
       </list>
     </option>
   </component>
@@ -182,7 +194,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554400154153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554401486229" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -210,14 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReturnKDistinceRandomNum">
-    <configuration name="BianLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BianLi" />
-      <module name="LeetCodeTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QueryString">
     <configuration name="GlobalMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawDridge.GlobalMaximum" />
       <module name="LeetCodeTest" />
@@ -237,6 +242,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DrawDridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lumi_Labs.QueryString" />
+      <module name="LeetCodeTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lumi_Labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,19 +283,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BianLi" />
       <item itemvalue="Application.GlobalMaximum" />
       <item itemvalue="Application.MinMoveToMakeTwoIntegerSame" />
       <item itemvalue="Application.ViagogoOA" />
       <item itemvalue="Application.ReturnKDistinceRandomNum" />
+      <item itemvalue="Application.QueryString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueryString" />
         <item itemvalue="Application.ReturnKDistinceRandomNum" />
         <item itemvalue="Application.ViagogoOA" />
         <item itemvalue="Application.MinMoveToMakeTwoIntegerSame" />
         <item itemvalue="Application.GlobalMaximum" />
-        <item itemvalue="Application.BianLi" />
       </list>
     </recent_temporary>
   </component>
@@ -378,12 +396,12 @@
       <workItem from="1552106835048" duration="7038000" />
       <workItem from="1553105693677" duration="4889000" />
       <workItem from="1553271634275" duration="8730000" />
-      <workItem from="1554396260511" duration="1389000" />
+      <workItem from="1554396260511" duration="1843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184791000" />
+    <option name="totallyTimeSpent" value="185245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -926,16 +944,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LC991BrokenCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1326,10 +1334,20 @@
     <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/LC234PalindromeLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
           <folding>
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/QueryString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
