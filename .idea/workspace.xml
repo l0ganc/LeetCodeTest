@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Viagogo/ViagogoOA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,17 +24,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-260">
+            <state relative-caret-position="165">
               <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+            <state relative-caret-position="276">
+              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StackPopTest.java" />
         <option value="$PROJECT_DIR$/src/EqualCompareTest.java" />
         <option value="$PROJECT_DIR$/src/Stripe/Solution.java" />
         <option value="$PROJECT_DIR$/src/HardQuestions/TextJustification.java" />
@@ -110,10 +121,11 @@
         <option value="$PROJECT_DIR$/src/ViagogoOA.java" />
         <option value="$PROJECT_DIR$/src/Vogogo/ViagogoOA.java" />
         <option value="$PROJECT_DIR$/src/Viagogo/ViagogoOA.java" />
+        <option value="$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="217" />
     <option name="y" value="48" />
     <option name="width" value="1416" />
@@ -127,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,17 +152,10 @@
               <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Viagogo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -157,7 +163,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553537608082" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554397077956" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -185,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ViagogoOA">
+  <component name="RunManager" selected="Application.ReturnKDistinceRandomNum">
     <configuration name="BianLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BianLi" />
       <module name="LeetCodeTest" />
@@ -219,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoPairsAllow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DrawDridge.NoPairsAllow" />
+    <configuration name="ReturnKDistinceRandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lumi_Labs.ReturnKDistinceRandomNum" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DrawDridge.*" />
+          <option name="PATTERN" value="Lumi_Labs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NoPairsAllow" />
       <item itemvalue="Application.BianLi" />
       <item itemvalue="Application.GlobalMaximum" />
       <item itemvalue="Application.MinMoveToMakeTwoIntegerSame" />
       <item itemvalue="Application.ViagogoOA" />
+      <item itemvalue="Application.ReturnKDistinceRandomNum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnKDistinceRandomNum" />
         <item itemvalue="Application.ViagogoOA" />
         <item itemvalue="Application.MinMoveToMakeTwoIntegerSame" />
         <item itemvalue="Application.GlobalMaximum" />
         <item itemvalue="Application.BianLi" />
-        <item itemvalue="Application.NoPairsAllow" />
       </list>
     </recent_temporary>
   </component>
@@ -353,11 +359,12 @@
       <workItem from="1552106835048" duration="7038000" />
       <workItem from="1553105693677" duration="4889000" />
       <workItem from="1553271634275" duration="8730000" />
+      <workItem from="1554396260511" duration="805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183402000" />
+    <option name="totallyTimeSpent" value="184207000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,10 +376,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="217" y="48" width="1416" height="914" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20160116" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17155068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -382,12 +389,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.3578199" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.35714287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41938776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296837" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.28832117" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" weight="0.2877551" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32244897" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -395,6 +402,7 @@
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="13" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="leetcode" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -889,17 +897,16 @@
           <properties />
           <option name="timeStamp" value="209" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PaiLie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTraverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1282,15 +1289,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pony/ai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
+        <state relative-caret-position="165">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="17" lean-forward="true" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        <state relative-caret-position="276">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
