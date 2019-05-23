@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,27 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/ReturnKDistinceRandomNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/LC234PalindromeLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,19 +55,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clutter/LastAndSelectedLast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="135">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="50" column="48" lean-forward="true" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
+            <state relative-caret-position="525">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RemoveDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ForUsAll/LoadBalance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
+            <state relative-caret-position="600">
               <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
@@ -143,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Cohesity/FileLevelCombination.java" />
-        <option value="$PROJECT_DIR$/src/Cohesity/CourseSchedule.java" />
         <option value="$PROJECT_DIR$/src/LC989AddToArrayFormOfInteger.java" />
         <option value="$PROJECT_DIR$/src/LC991BrokenCalculator.java" />
         <option value="$PROJECT_DIR$/src/LC992SubarrayswithKDifferentIntegers.java" />
@@ -194,14 +195,15 @@
         <option value="$PROJECT_DIR$/src/ForUsAll/test.java" />
         <option value="$PROJECT_DIR$/src/Clutter/LastAndSelectedLast.java" />
         <option value="$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java" />
+        <option value="$PROJECT_DIR$/src/RemoveDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="667" />
-    <option name="y" value="133" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="960" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -211,8 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,19 +229,27 @@
               <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon社招OA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Clutter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558129334855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558572196172" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -269,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeforeAndAfterPuzzle">
+  <component name="RunManager" selected="Application.MinimumSpanningTree">
     <configuration name="BeforeAndAfterPuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clutter.BeforeAndAfterPuzzle" />
       <module name="LeetCodeTest" />
@@ -279,13 +287,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCContest136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LCContest136" />
-      <module name="LeetCodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -303,15 +304,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lumi_Labs.QueryString" />
+    <configuration name="MinimumSpanningTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon社招OA.MinimumSpanningTree" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lumi_Labs.*" />
+          <option name="PATTERN" value="Amazon社招OA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicate" />
+      <module name="LeetCodeTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -330,19 +338,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QueryString" />
-      <item itemvalue="Application.LCContest136" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.LastAndSelectedLast" />
       <item itemvalue="Application.BeforeAndAfterPuzzle" />
+      <item itemvalue="Application.RemoveDuplicate" />
+      <item itemvalue="Application.MinimumSpanningTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumSpanningTree" />
+        <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.BeforeAndAfterPuzzle" />
         <item itemvalue="Application.LastAndSelectedLast" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.LCContest136" />
-        <item itemvalue="Application.QueryString" />
       </list>
     </recent_temporary>
   </component>
@@ -448,12 +456,14 @@
       <workItem from="1557628857448" duration="712000" />
       <workItem from="1557781965660" duration="54000" />
       <workItem from="1557865637770" duration="3216000" />
-      <workItem from="1558025402631" duration="1752000" />
+      <workItem from="1558025402631" duration="2403000" />
+      <workItem from="1558233773905" duration="1975000" />
+      <workItem from="1558564526321" duration="1754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192422000" />
+    <option name="totallyTimeSpent" value="196802000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,7 +478,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18070818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18437119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -479,12 +489,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" weight="0.35714287" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41938776" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41935483" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296837" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.497558" visible="true" weight="0.25408164" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502442" side_tool="true" weight="0.36734694" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969475" weight="0.28686637" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50305253" side_tool="true" weight="0.25408164" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32244897" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -992,24 +1002,16 @@
           <properties />
           <option name="timeStamp" value="210" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RemoveDuplicate.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Cohesity/LC340LongestSubstringWithAtmostKDistinctharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cohesity/LC156BinaryTreeUpsideDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cohesity/FileLevelCombination.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1292,6 +1294,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForUsAll/BuildOffice.java" />
+    <entry file="file://$PROJECT_DIR$/src/ForUsAll/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Viagogo/ViagogoOA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
@@ -1326,27 +1330,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/ForUsAllOa.java">
+    <entry file="file://$PROJECT_DIR$/src/ForUsAll/SuperStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="184" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clutter/LastAndSelectedLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForUsAll/BuildOffice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForUsAll/LoadBalance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1357,36 +1361,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForUsAll/test.java">
+    <entry file="file://$USER_HOME$/Downloads/ForUsAllOa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        <state relative-caret-position="2190">
+          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="184" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForUsAll/SuperStack.java">
+    <entry file="file://$PROJECT_DIR$/src/ForUsAll/LoadBalance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="600">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clutter/LastAndSelectedLast.java">
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="435">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java">
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="50" column="48" lean-forward="true" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
+        <state relative-caret-position="780">
+          <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
           </folding>
         </state>
       </provider>
