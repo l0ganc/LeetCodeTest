@@ -2,7 +2,7 @@ package Amazon社招OA;
 
 import java.util.*;
 
-public class LC973ReorderLogFiles {
+public class LC937ReorderLogFiles {
 
     /**
      * guaranteed to have a word following an identifier (allows me to use indexOf ' ' freely).
