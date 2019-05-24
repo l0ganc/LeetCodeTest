@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Amazon社招OA/LC973ReorderLogFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,27 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lumi_Labs/QueryString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ForUsAll/SuperStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Clutter/LastAndSelectedLast.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,14 +63,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="285">
               <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/PartitionLabels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LC973ReorderLogFiles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -145,8 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LC991BrokenCalculator.java" />
-        <option value="$PROJECT_DIR$/src/LC992SubarrayswithKDifferentIntegers.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/MergeTwoLists.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/LowestCommonAncestor.java" />
@@ -196,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/RemoveDuplicate.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java" />
+        <option value="$PROJECT_DIR$/src/Amazon社招OA/PartitionLabels.java" />
+        <option value="$PROJECT_DIR$/src/Amazon社招OA/LC973ReorderLogFiles.java" />
       </list>
     </option>
   </component>
@@ -211,8 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,13 +240,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558657640256" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558678635630" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,13 +276,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PartitionLabels">
-    <configuration name="BeforeAndAfterPuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clutter.BeforeAndAfterPuzzle" />
+  <component name="RunManager" selected="Application.LC973ReorderLogFiles">
+    <configuration name="LC973ReorderLogFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon社招OA.LC973ReorderLogFiles" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Clutter.*" />
+          <option name="PATTERN" value="Amazon社招OA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,19 +337,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BeforeAndAfterPuzzle" />
       <item itemvalue="Application.RemoveDuplicate" />
       <item itemvalue="Application.MinimumSpanningTree" />
       <item itemvalue="Application.LingjianPack" />
       <item itemvalue="Application.PartitionLabels" />
+      <item itemvalue="Application.LC973ReorderLogFiles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC973ReorderLogFiles" />
         <item itemvalue="Application.PartitionLabels" />
         <item itemvalue="Application.LingjianPack" />
         <item itemvalue="Application.MinimumSpanningTree" />
         <item itemvalue="Application.RemoveDuplicate" />
-        <item itemvalue="Application.BeforeAndAfterPuzzle" />
       </list>
     </recent_temporary>
   </component>
@@ -457,12 +458,14 @@
       <workItem from="1558025402631" duration="2403000" />
       <workItem from="1558233773905" duration="1975000" />
       <workItem from="1558564526321" duration="2641000" />
-      <workItem from="1558597548979" duration="177000" />
+      <workItem from="1558597548979" duration="446000" />
+      <workItem from="1558670605274" duration="42000" />
+      <workItem from="1558671547658" duration="394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197866000" />
+    <option name="totallyTimeSpent" value="198571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -475,8 +478,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18620269" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15018316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1010,26 +1014,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Cohesity/CourseSchedule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cohesity/CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cohesity/MergeTwoBinaryTreeLC617.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1359,6 +1343,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ForUsAll/NoMoreThanThree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -1383,13 +1377,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java">
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/PartitionLabels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="135">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LC973ReorderLogFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
         </state>
       </provider>
     </entry>
