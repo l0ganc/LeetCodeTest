@@ -30,6 +30,8 @@ public class LingjianPack {
 
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(8, 4, 6, 2);
+        List<Integer> list2 = Arrays.asList(1, 2, 5, 10, 35, 89);
         System.out.println(getRes(list));
+        System.out.println(getRes(list2));
     }
 }

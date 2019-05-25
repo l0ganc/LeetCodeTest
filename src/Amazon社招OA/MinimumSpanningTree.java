@@ -1,9 +1,6 @@
 package Amazon社招OA;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.PriorityQueue;
+import java.util.*;
 
 public class MinimumSpanningTree {
 
@@ -119,4 +116,55 @@ public class MinimumSpanningTree {
         System.out.println(GetMinimumCostToConstruct(numTotalAvailableCities,
                 numTotalAvailableRoads, roadsAvailable, numNewRoadsConstruct, costNewRoadsConstruct));
     }
+
+
+
+    /**
+    public int getMinimumCostToConstruct(int numTotalAvailableCities, int numTotalAvailableRoads,
+                                         List<List<Integer>> roadsAvailable,
+                                         int numNewRoadsConstruct,
+                                         List<List<Integer>> costNewRoadsConstruction) {
+        UnionFind uf = new UnionFind(numTotalAvailableCities);
+        for(List<Integer> road: roadsAvailable) {
+            uf.union(road.get(0), road.get(1));
+        }
+        Collections.sort(costNewRoadsConstruction, (o1, o2) -> o1.get(2) - o2.get(2));
+        int cost = 0;
+        for(List<Integer> newRoad: costNewRoadsConstruction) {
+            if (!uf.find(newRoad.get(0), newRoad.get(1))) {
+                uf.union(newRoad.get(0), newRoad.get(1));
+                cost+= newRoad.get(2);
+            }
+        }
+
+        return cost;
+    }
+
+    class UnionFind {
+        private int[] ids;
+        public UnionFind(int size) {
+            this.ids = new int[size + 1];
+            for (int i = 0; i < size + 1; i++) {
+                ids = i;
+            }
+        }
+
+        public int root(int i) {
+            while (ids != i) {
+                i = ids;
+            }
+            return i;
+        }
+
+        public boolean find(int i, int j) {
+            return root(i) == root(j);
+        }
+
+        public void union(int i, int j) {
+            int rooti = root(i);
+            int rootj = root(j);
+            ids[rooti] = rootj;
+        }
+    }
+     */
 }
