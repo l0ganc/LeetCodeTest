@@ -25,11 +25,11 @@ public class LingjianPack {
             pq.add(temp);
         }
 
-        return res + pq.peek();
+        return res;
     }
 
     public static void main(String[] args) {
-        List<Integer> list = Arrays.asList(8, 4, 6, 2);
+        List<Integer> list = Arrays.asList(8, 4, 6, 12);
         List<Integer> list2 = Arrays.asList(1, 2, 5, 10, 35, 89);
         System.out.println(getRes(list));
         System.out.println(getRes(list2));

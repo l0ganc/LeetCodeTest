@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbba75db-c0ce-4e1b-a7f6-3c4057ef2a23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Amazon社招OA/XiuluTi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/LC973ReorderLogFiles$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/LC973ReorderLogFiles.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/LingjianPack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/LingjianPack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/MinimumSpanningTree$Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/MinimumSpanningTree$Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/MinimumSpanningTree$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/MinimumSpanningTree$UnionFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/MinimumSpanningTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeTest/Amazon社招OA/MinimumSpanningTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,18 +26,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RemoveDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
@@ -46,14 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1218">
-              <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="2332">
+              <caret line="168" column="7" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -71,14 +56,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="285">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#481#653#1" />
               </folding>
             </state>
           </provider>
@@ -155,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Cohesity/LowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/LogStructureMergeTree.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/TimeNeedToBurnWholeBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Cohesity/MergeTwoBinaryTreeLC617.java" />
@@ -200,12 +183,13 @@
         <option value="$PROJECT_DIR$/src/Clutter/LastAndSelectedLast.java" />
         <option value="$PROJECT_DIR$/src/Clutter/BeforeAndAfterPuzzle.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/PartitionLabels.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/LC973ReorderLogFiles.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/test.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/XiuluTi.java" />
+        <option value="$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java" />
         <option value="$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java" />
+        <option value="$PROJECT_DIR$/src/Amazon社招OA/MinimumTimeANDMergeFiles.java" />
       </list>
     </option>
   </component>
@@ -257,7 +241,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558822360578" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558823297564" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -285,15 +269,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LingjianPack">
+  <component name="RunManager" selected="Application.MinimumTimeANDMergeFiles">
     <configuration name="KdistinctChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KdistinctChar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC937ReorderLogFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Amazon社招OA.LC937ReorderLogFiles" />
+    <configuration name="LingjianPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon社招OA.LingjianPack" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
@@ -305,8 +289,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LingjianPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Amazon社招OA.LingjianPack" />
+    <configuration name="MinimumTimeANDMergeFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon社招OA.MinimumTimeANDMergeFiles" />
       <module name="LeetCodeTest" />
       <extension name="coverage">
         <pattern>
@@ -345,19 +329,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC937ReorderLogFiles" />
       <item itemvalue="Application.KdistinctChar" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.XiuluTi" />
       <item itemvalue="Application.LingjianPack" />
+      <item itemvalue="Application.MinimumTimeANDMergeFiles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumTimeANDMergeFiles" />
         <item itemvalue="Application.LingjianPack" />
         <item itemvalue="Application.XiuluTi" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.KdistinctChar" />
-        <item itemvalue="Application.LC937ReorderLogFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -468,12 +452,12 @@
       <workItem from="1558564526321" duration="2641000" />
       <workItem from="1558597548979" duration="446000" />
       <workItem from="1558670605274" duration="42000" />
-      <workItem from="1558671547658" duration="2992000" />
+      <workItem from="1558671547658" duration="4197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201169000" />
+    <option name="totallyTimeSpent" value="202374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,8 +470,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15018316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15018316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -497,7 +482,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.35714287" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969475" visible="true" weight="0.35714287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41836736" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1021,13 +1006,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/MaximumSubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="51" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Amazon_OA2/FindKNearestPoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1343,16 +1321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="101" column="19" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LC937ReorderLogFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1381,14 +1349,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java">
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/MinimumTimeANDMergeFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="163">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#481#653#1" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/LingjianPack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Amazon社招OA/MinimumSpanningTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="168" column="7" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
         </state>
       </provider>
     </entry>
