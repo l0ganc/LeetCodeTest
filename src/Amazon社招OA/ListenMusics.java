@@ -37,12 +37,15 @@ public class ListenMusics {
                 i++;
             }
         }
-        return res;
+        return Arrays.asList(-1, -1);
     }
 
     public static void main(String[] args) {
         List<Integer> songDurations = Arrays.asList(1, 2, 29, 30);
+        List<Integer> songDurations2 = Arrays.asList(1);
         int rideDuration = 61;
         System.out.println(IDsOfSongs(rideDuration, songDurations));
+        System.out.println(IDsOfSongs(0, songDurations));
+        System.out.println(IDsOfSongs(rideDuration, songDurations2));
     }
 }
