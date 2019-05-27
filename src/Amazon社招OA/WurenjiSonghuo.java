@@ -57,7 +57,18 @@ public class WurenjiSonghuo {
         returnList1.add(Arrays.asList(3, 4000));
         returnList1.add(Arrays.asList(4, 5000));
 
+
+        int maxTravelDist2 = 5;
+        List<List<Integer>> forward2 = new ArrayList<>();
+        forward2.add(Arrays.asList(1, 4));
+        forward2.add(Arrays.asList(2, 1));
+        forward2.add(Arrays.asList(3, 2));
+
+        List<List<Integer>> returnList2 = new ArrayList<>();
+        returnList2.add(Arrays.asList(1, 2));
+
         System.out.println(PrimeMaxProfit(maxTravelDist, forward, returnList));
         System.out.println(PrimeMaxProfit(maxTravelDist1, forward1, returnList1));
+        System.out.println(PrimeMaxProfit(maxTravelDist2, forward2, returnList2));
     }
 }
