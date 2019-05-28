@@ -10,7 +10,7 @@ public class LingjianPack {
             return 0;
         }
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> a - b);
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
         int res = 0;
 
         for (int i = 0; i < list.size(); i++) {
