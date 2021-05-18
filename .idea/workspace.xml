@@ -91,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Didi/LC221.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="400">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -247,7 +247,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/logan/IdeaProjects/LeetCodeTest/src/CharRemoval.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621313565427" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621313964772" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -473,12 +473,12 @@
       <workItem from="1620054422411" duration="233000" />
       <workItem from="1620106664677" duration="794000" />
       <workItem from="1620324904969" duration="547000" />
-      <workItem from="1620967312757" duration="24973000" />
+      <workItem from="1620967312757" duration="25352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243046000" />
+    <option name="totallyTimeSpent" value="243425000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,9 +491,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1698" y="43" width="1753" height="1270" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24780829" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24780829" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -508,7 +507,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3296837" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969475" visible="true" weight="0.28498295" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4969475" visible="true" weight="0.28498295" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50305253" side_tool="true" weight="0.25408164" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946752" weight="0.32167235" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" weight="0.32959184" />
@@ -1395,8 +1394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Didi/LC221.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="400">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
